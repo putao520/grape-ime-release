@@ -2,25 +2,23 @@
 
 此仓库仅用于发布葡萄输入法安装包和二进制（GitHub Releases）。
 
-源代码位于私有仓库 `putao520/gsc-srf`，不随本发布仓库开放。
+源代码位于私有仓库 `putao520/gsc-srf`，不随本发布仓库公开。
 
 ## 下载
 
 前往 [Releases](https://github.com/putao520/grape-ime-release/releases) 下载最新版安装包。
 
-## 二进制许可
+## 二进制与第三方许可
 
-官方发布的葡萄输入法安装包和二进制适用
-[Putao Open Binary Distribution License v1.0](./LICENSE)。
+葡萄输入法是**混合许可的闭源二进制发行物**：
 
-简要规则：
+- 自有闭源部分的额外使用/再分发授权见 [LICENSE](./LICENSE)；
+- 第三方开源库、运行时和模型继续适用各自原始许可，见
+  [THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md)；
+- NVIDIA Sortformer 的要求见 [NVIDIA-NOTICE.txt](./NVIDIA-NOTICE.txt)；
+- 官方安装包内部还包含 release-specific 的完整 `licenses` 目录和
+  Rust 依赖许可证清单。
 
-- 允许个人、教育、研究和商业使用；
-- 允许复制、镜像、托管、打包以及再分发**未经修改的官方二进制**；
-- 可以免费分发，也可以作为收费介质、服务或其他产品的一部分分发；
-- 本许可**不开放、不授权私有源代码**，也不要求公开源代码；
-- 安装包中的第三方组件继续适用其各自的上游许可；
-- 镜像、重新打包或第三方分发不得冒充 putao520 官方发布渠道；
-- 产品名称、Logo 和其他品牌标识不因二进制分发许可而获得额外商标授权。
-
-完整条款见 [LICENSE](./LICENSE)。
+允许个人和商业使用，也允许镜像、托管和再分发未经修改的官方安装包。
+这些额外条款不会缩小 MIT、Apache-2.0、NVIDIA Open Model License 或
+其他第三方许可证独立授予的权利。
