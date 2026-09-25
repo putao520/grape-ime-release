@@ -1,21 +1,106 @@
-MIT License
+PUTAO OPEN BINARY DISTRIBUTION LICENSE
+Version 1.0
 
 Copyright (c) 2026 putao520
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license applies to executable binaries, installers, release archives,
+channel metadata, and accompanying distribution files published by putao520
+in this repository (the "Covered Binary"), but only to the extent that
+putao520 owns or has the right to license them.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Third-party software, libraries, runtimes, codecs, fonts, assets, or other
+components included with a Covered Binary remain subject to their respective
+licenses and notices. Those third-party terms take precedence for those
+components.
+
+2. Permission
+
+Subject to the conditions below, permission is granted, free of charge and
+on a worldwide, non-exclusive, royalty-free basis, to:
+
+- install and run the Covered Binary for personal, educational, research,
+  internal, or commercial purposes;
+- copy, archive, mirror, host, and redistribute unmodified official Covered
+  Binary releases;
+- include an unmodified official Covered Binary in another product,
+  installer, package repository, software image, or distribution;
+- charge a fee for media, hosting, support, integration, distribution, or a
+  larger product that includes the Covered Binary.
+
+No separate written permission from putao520 is required for these uses.
+
+3. Redistribution Conditions
+
+A redistribution must:
+
+- retain this license, or provide a clear link to the copy of this license
+  that applies to the redistributed Covered Binary;
+- retain applicable copyright, attribution, and third-party license notices;
+- not represent a third-party mirror, bundle, or distributor as an official
+  putao520 release channel;
+- not use the names, logos, trademarks, or other branding of putao520 or the
+  product in a way that falsely suggests sponsorship, endorsement, or
+  official status.
+
+Repackaging an official release into another archive, installer, container,
+package repository, or delivery format is allowed provided that the Covered
+Binary itself is not modified and the redistribution remains clearly
+identifiable as a redistribution or repackaging when confusion could arise.
+
+4. Source Code
+
+This is a binary distribution license, not an open-source source-code
+license.
+
+This license does not grant any right to unpublished or private source code,
+nor does it require putao520 to provide, publish, disclose, or maintain source
+code.
+
+If source code is separately published under another license, that separate
+license governs the source code.
+
+5. Modified Binaries
+
+This license does not by itself grant permission to redistribute modified
+versions of the Covered Binary as though they were official releases.
+
+A modified binary may be redistributed only when the modifier has an
+independent legal right or separate permission to make and distribute that
+modification. Any such distribution must be clearly marked as modified and
+unofficial and must not imply endorsement by putao520.
+
+Nothing in this section restricts rights that applicable law independently
+provides and that cannot be waived by contract.
+
+6. Trademarks
+
+No trademark, trade name, logo, product identity, or endorsement right is
+granted by this license except for nominative use reasonably necessary to
+identify the Covered Binary.
+
+7. No Warranty
+
+THE COVERED BINARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE COVERED BINARY OR THE USE,
+DISTRIBUTION, OR OTHER DEALINGS IN THE COVERED BINARY.
+
+8. Termination
+
+The permissions granted by this license terminate automatically for a party
+that materially violates its conditions. The permissions are reinstated
+automatically when the violation is cured, unless putao520 has provided
+written notice that reinstatement is denied because of repeated or deliberate
+violations.
+
+9. License Character
+
+This license is intended to allow broad use and redistribution of closed-source
+binary releases. It should not be described as an OSI-approved open-source
+license unless it is separately approved as such.
