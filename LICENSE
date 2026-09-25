@@ -1,106 +1,84 @@
-PUTAO OPEN BINARY DISTRIBUTION LICENSE
-Version 1.0
+PUTAO OPEN BINARY DISTRIBUTION TERMS
+Version 1.1
 
 Copyright (c) 2026 putao520
 
 1. Scope
 
-This license applies to executable binaries, installers, release archives,
-channel metadata, and accompanying distribution files published by putao520
-in this repository (the "Covered Binary"), but only to the extent that
-putao520 owns or has the right to license them.
+These terms apply only to proprietary portions of Grape IME binaries,
+installers, release-channel materials, packaging, metadata, and other material
+for which putao520 has the right to grant additional permissions.
 
-Third-party software, libraries, runtimes, codecs, fonts, assets, or other
-components included with a Covered Binary remain subject to their respective
-licenses and notices. Those third-party terms take precedence for those
-components.
+Grape IME distributions also contain third-party software, libraries, models,
+runtime components, data, fonts, and other material under their own licenses.
 
-2. Permission
+Nothing in these terms limits, replaces, narrows, conditions, or revokes any
+right granted by an applicable third-party open-source, model, data, or other
+license. If these terms conflict with an applicable third-party license, the
+third-party license controls for the affected component.
 
-Subject to the conditions below, permission is granted, free of charge and
-on a worldwide, non-exclusive, royalty-free basis, to:
+2. Additional permission for covered proprietary material
 
-- install and run the Covered Binary for personal, educational, research,
-  internal, or commercial purposes;
-- copy, archive, mirror, host, and redistribute unmodified official Covered
-  Binary releases;
-- include an unmodified official Covered Binary in another product,
-  installer, package repository, software image, or distribution;
-- charge a fee for media, hosting, support, integration, distribution, or a
-  larger product that includes the Covered Binary.
+Subject to these terms, putao520 grants a worldwide, non-exclusive,
+royalty-free permission to install, run, copy, mirror, host, archive, bundle,
+and redistribute unmodified official Grape IME binaries, installers, and
+covered release materials for personal, educational, research, internal, or
+commercial purposes.
 
-No separate written permission from putao520 is required for these uses.
+Redistribution may be free or paid and may be included in another installer,
+package repository, image, appliance, service, or larger product.
 
-3. Redistribution Conditions
+3. Redistribution conditions
 
-A redistribution must:
+A redistributor of covered proprietary material must:
 
-- retain this license, or provide a clear link to the copy of this license
-  that applies to the redistributed Covered Binary;
-- retain applicable copyright, attribution, and third-party license notices;
-- not represent a third-party mirror, bundle, or distributor as an official
-  putao520 release channel;
-- not use the names, logos, trademarks, or other branding of putao520 or the
-  product in a way that falsely suggests sponsorship, endorsement, or
-  official status.
+- retain these terms or provide a clear reference to them;
+- retain all applicable third-party copyright, license, attribution, NOTICE,
+  model-license, and source-availability information;
+- not present a mirror, repackaging, bundle, or third-party channel as an
+  official putao520 release channel;
+- not use product names, logos, marks, or branding in a way that falsely
+  suggests sponsorship, endorsement, or official status.
 
-Repackaging an official release into another archive, installer, container,
-package repository, or delivery format is allowed provided that the Covered
-Binary itself is not modified and the redistribution remains clearly
-identifiable as a redistribution or repackaging when confusion could arise.
+4. Third-party components
 
-4. Source Code
+Third-party components remain governed by their original licenses and notices.
+Your rights under those licenses are independent of these terms.
 
-This is a binary distribution license, not an open-source source-code
-license.
+See the THIRD-PARTY-NOTICES material distributed with the installer. The
+installer's licenses directory contains release-specific license texts and
+notices, including the NVIDIA model-license materials where applicable.
 
-This license does not grant any right to unpublished or private source code,
-nor does it require putao520 to provide, publish, disclose, or maintain source
-code.
+5. Source code
 
-If source code is separately published under another license, that separate
-license governs the source code.
+These terms do not grant access to unpublished proprietary source code and do
+not require putao520 to publish proprietary source code.
 
-5. Modified Binaries
+Where a third-party license independently requires source availability or
+other disclosure, that requirement remains fully effective and is not
+restricted by these terms.
 
-This license does not by itself grant permission to redistribute modified
-versions of the Covered Binary as though they were official releases.
+6. Modified binaries
 
-A modified binary may be redistributed only when the modifier has an
-independent legal right or separate permission to make and distribute that
-modification. Any such distribution must be clearly marked as modified and
-unofficial and must not imply endorsement by putao520.
+These additional terms do not grant a right to present a modified proprietary
+Grape IME binary as an official putao520 release. This restriction does not
+limit modification or redistribution rights independently granted by an
+applicable third-party license.
 
-Nothing in this section restricts rights that applicable law independently
-provides and that cannot be waived by contract.
+7. Trademarks
 
-6. Trademarks
+No trademark, logo, trade-name, product-identity, or endorsement right is
+granted except nominative use reasonably necessary to identify the software.
 
-No trademark, trade name, logo, product identity, or endorsement right is
-granted by this license except for nominative use reasonably necessary to
-identify the Covered Binary.
+8. No warranty
 
-7. No Warranty
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, COVERED MATERIALS ARE PROVIDED "AS IS"
+WITHOUT WARRANTY OF ANY KIND. PUTAO520 SHALL NOT BE LIABLE FOR DAMAGES ARISING
+FROM USE OR DISTRIBUTION OF COVERED MATERIALS.
 
-THE COVERED BINARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+9. Character of these terms
 
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
-DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING
-FROM, OUT OF, OR IN CONNECTION WITH THE COVERED BINARY OR THE USE,
-DISTRIBUTION, OR OTHER DEALINGS IN THE COVERED BINARY.
-
-8. Termination
-
-The permissions granted by this license terminate automatically for a party
-that materially violates its conditions. The permissions are reinstated
-automatically when the violation is cured, unless putao520 has provided
-written notice that reinstatement is denied because of repeated or deliberate
-violations.
-
-9. License Character
-
-This license is intended to allow broad use and redistribution of closed-source
-binary releases. It should not be described as an OSI-approved open-source
-license unless it is separately approved as such.
+These are additional binary-distribution terms for proprietary release
+materials. They are not intended to replace or relicense third-party
+open-source or model components and should not be described as an OSI-approved
+open-source license.
