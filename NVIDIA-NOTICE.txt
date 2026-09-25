@@ -1,0 +1,9 @@
+NOTICE — NVIDIA MODEL
+
+Grape IME includes:
+nvidia/diar_streaming_sortformer_4spk-v2.1
+
+Licensed by NVIDIA Corporation under the NVIDIA Open Model License
+
+The applicable NVIDIA Open Model License Agreement is packaged inside the
+official installer's licenses directory.
